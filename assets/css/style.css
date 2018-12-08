@@ -1,0 +1,12 @@
+body{
+	background-image: url(http://img3.wikia.nocookie.net/__cb20130619002601/logopedia/images/7/75/Raiders_of_the_Lost_Ark_logo.jpg);
+	text-align: center;
+}
+
+
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
