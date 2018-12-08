@@ -1,1 +1,1 @@
-# TriviaGame
+A trivie style game that utilizes, HTML, CSS, Bootstrap, Javascript, and jQuery
