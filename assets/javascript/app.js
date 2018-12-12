@@ -14,7 +14,7 @@ var trivia = {
     currentSet: 0,
     timer: 10,
     timerOn: false,
-    timerId: ''
+    timerId: '',
     
     questions: {
         q1: "In what year do the events of the film take place?-To which god did the staff belong?",
@@ -37,7 +37,7 @@ var trivia = {
         q6: ['Grapes', 'Dates', 'Hummus', 'Baba Ghanoush'],
         q7: ['Nepal', 'Iceland', 'Norway', 'Tibet'],
         q8: ['Giant boulder', 'Pressure plate triggered darts', 'Decapitating blade', 'Bottomless pit'],
-        q9: ['The well of the dead', 'The pit of the dead', 'The well of souls' 'The pit of souls']
+        q9: ['The well of the dead', 'The pit of the dead', 'The well of souls', 'The pit of souls'],
       q10: ['Its too short', 'Its too long', 'The headpiece is too big', 'The headpiece is too small']
     },
     answers: {
